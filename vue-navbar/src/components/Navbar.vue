@@ -1,7 +1,9 @@
 <template>
-  <nav>
-    <h1>Test</h1>
-  </nav>
+  <nav class="navbar" role="navigation" aria-label="main navigation">
+  <div class="navbar-brand">
+    <!-- navbar items, navbar burger... -->
+  </div>
+</nav>
 </template>
 
 <script>
