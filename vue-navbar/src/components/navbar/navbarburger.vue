@@ -16,6 +16,9 @@ export default {
 }
 </script>
 
-<style>
-
+<style scoped>
+  button{
+    border: 0px;
+    border-radius: 0px;
+  }
 </style>

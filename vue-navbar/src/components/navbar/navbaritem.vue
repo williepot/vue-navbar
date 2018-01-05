@@ -1,5 +1,5 @@
 <template>
-    <a slot="s1" class="navbar-item">
+    <a class="navbar-item">
     {{ data }}
     </a>
 </template>
@@ -8,7 +8,7 @@
 export default {
   data () {
     return {
-      data: 'TEST'
+      data: 'NAVBAR-ITEM'
     }
   }
 }
