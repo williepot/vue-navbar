@@ -8,7 +8,7 @@
 export default {
   data () {
     return {
-      data: 'NAVBAR-ITEM'
+      data: 'TEST-HOME'
     }
   }
 }
